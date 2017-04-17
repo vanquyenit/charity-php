@@ -1,0 +1,182 @@
+body {
+  font-family: Roboto Slab !important; }
+  body a:focus, body a:hover {
+    text-decoration: inherit; }
+  body .thumbnail {
+    padding: 0;
+    border-radius: 0; }
+  body .content-area {
+    background-color: #F7F7F7; }
+  body .dk-selected {
+    margin: 0;
+    border-radius: 20px;
+    border-color: #f8b864; }
+  body .dk-select-options {
+    border-radius: 0 0 20px 20px; }
+  body #masthead .top-header .thim-logo {
+    padding-bottom: 0; }
+  body #masthead .top-header .thim-menu .top-sidebar {
+    padding-bottom: 0; }
+  body #main-content {
+    padding-top: 85px !important; }
+    body #main-content #main .img-user-campaign {
+      width: 100%;
+      height: 300px;
+      margin: 0 0 30px 0; }
+    body #main-content #main .cover-box {
+      position: absolute;
+      top: 0;
+      width: 96.7%;
+      background: rgba(0, 0, 0, 0.38); }
+      body #main-content #main .cover-box h4 p {
+        color: #fff; }
+        body #main-content #main .cover-box h4 p .fa {
+          color: #f8b864; }
+  body #pl-4967 #pg-4967-1 {
+    padding: 80px 0px 42px; }
+    body #pl-4967 #pg-4967-1 .background {
+      background-color: #f9f9f9;
+      margin: 0 -74px;
+      padding: 0 74px;
+      border-left: 0px;
+      border-right: 0px; }
+    body #pl-4967 #pg-4967-1 .inner .box-content a h3.title {
+      font-size: 24px;
+      font-weight: 700; }
+    body #pl-4967 #pg-4967-1 .inner .media {
+      overflow: hidden; }
+  body #pl-4967 #pg-5008-2 .siteorigin-panels-stretch {
+    margin: 0 -74px;
+    padding: 0 74px;
+    border-left: 0px;
+    border-right: 0px; }
+    body #pl-4967 #pg-5008-2 .siteorigin-panels-stretch .article_heading {
+      padding: 75px 0px 15px; }
+  body #pl-4967 #pg-5008-2 .panel-widget-style {
+    padding: 50px 0px 80px; }
+  body #pl-4967 #pg-5008-3 .siteorigin-panels-stretch {
+    background-image: url(http://charitywp.thimpress.com/demo-2/wp-content/uploads/sites/2/2016/03/hero_background_1.jpg);
+    background-repeat: no-repeat;
+    margin: 0 -90px;
+    padding: 190px 0;
+    border-left: 0px;
+    border-right: 0px;
+    background-size: 1349px 899.614px; }
+  body #pl-4967 #pg-5008-4 .siteorigin-panels-stretch, body #pl-4967 #pg-5008-5 .siteorigin-panels-stretch {
+    background-color: #f9f9f9;
+    margin: 0 -90px;
+    padding: 0 90px;
+    border-left: 0px;
+    border-right: 0px; }
+  body #pl-4967 #pg-5008-5 .siteorigin-panels-stretch .panel-widget-style {
+    margin-bottom: 60px; }
+  body #pl-4967 #pg-5008-5 .siteorigin-panels-stretch .media {
+    overflow: visible; }
+  body #pl-4967 #pg-5008-5 .siteorigin-panels-stretch .box-content {
+    font-size: 18px;
+    font-weight: 700; }
+  body #pl-4967 #pg-4967-2 .panel-row-style {
+    background-color: #f5f5f5; }
+    body #pl-4967 #pg-4967-2 .panel-row-style #pgc-4967-2-0 #panel-4967-2-0-2 .panel-widget-style {
+      padding: 20px 0 80px 0 !important; }
+  body #pl-4967 #pg-4967-3 #pgc-4967-3-0 #panel-4967-3-0-0 .article_heading {
+    padding: 75px 0px 15px; }
+  body #pl-4967 #pg-4967-4 .panel-row-style {
+    background-color: #f8b864; }
+  body #pl-4967 #pg-4967-4 #pgc-4967-4-0 #panel-4967-4-0-0 h3 {
+    color: #fff; }
+  body #pl-4967 #pg-4967-4 #pgc-4967-4-0 #panel-4967-4-0-0 .line-heading {
+    border-color: #ffffff; }
+  body section.content-area .thim-parallax-image {
+    background-image: url(http://charitywp.thimpress.com/demo-3/wp-content/themes/charitywp/images/page_top_image.jpg); }
+  body #pg-555-2 .siteorigin-panels-stretch {
+    background-image: url(http://charitywp.thimpress.com/demo-3/wp-content/uploads/sites/3/2016/01/home1_10-1.jpg);
+    background-repeat: no-repeat;
+    margin: 0 -90px;
+    padding: 150px 50px;
+    border-left: 0px;
+    border-right: 0px;
+    background-size: 1349px 758.813px; }
+  body #donate_main_content article .entry-thumbnail img {
+    width: 870px;
+    height: 200px; }
+  body #donate_main_content article .event-content {
+    padding: 20px 0 23px 0; }
+    body #donate_main_content article .event-content .dn-content-inner {
+      padding: 0 20px; }
+    body #donate_main_content article .event-content .entry-meta .day__mounth {
+      font-family: Roboto Slab;
+      color: #f8b864;
+      border-right: 1px solid #f5f5f5;
+      font-weight: 700; }
+      body #donate_main_content article .event-content .entry-meta .day__mounth .day, body #donate_main_content article .event-content .entry-meta .day__mounth .year {
+        font-size: 24px;
+        font-weight: 700;
+        margin-bottom: 0;
+        line-height: 24px; }
+    body #donate_main_content article .event-content .entry-meta .location__address {
+      font-size: 12px;
+      font-weight: 700;
+      text-transform: uppercase;
+      line-height: 22px; }
+      body #donate_main_content article .event-content .entry-meta .location__address .fa {
+        color: #f8b864; }
+  body .color__yelow {
+    background-color: #f8b865; }
+  body .text-white {
+    color: #fff; }
+  body .text-yelow {
+    color: #F8B864; }
+  body .border-white {
+    border-color: #ffffff; }
+  body #pl-218 #panel-218-0-0-2 .textwidget h4 a {
+    color: #252423; }
+  body #pl-218 #panel-218-0-1-1 .color__yelow {
+    padding: 0px 30px 80px; }
+  body #colophon {
+    margin-bottom: 520px; }
+    body #colophon #pg-w5743ce68bcdfc-0 .thim-overlay-color {
+      background-image: url(http://charitywp.thimpress.com/demo-3/wp-content/uploads/sites/3/2016/02/home1_22.jpg);
+      background-position: center center;
+      background-repeat: no-repeat; }
+      body #colophon #pg-w5743ce68bcdfc-0 .thim-overlay-color .textwidget h3 {
+        text-align: center;
+        font-size: 36px;
+        color: #fff; }
+      body #colophon #pg-w5743ce68bcdfc-0 .thim-overlay-color .textwidget p {
+        text-align: center;
+        font-size: 20px; }
+    body #colophon #siteorigin-panels-builder-6 {
+      margin-left: -74px;
+      margin-right: -74px; }
+    body #colophon #pg-w581ad7d988d0a-0 .thim-border-center {
+      font-size: 18px;
+      line-height: 26px;
+      margin-left: -74px;
+      background-color: #ffffff;
+      margin-right: -74px; }
+    body #colophon #pg-w581ad7d988d0a-0 .width_500 {
+      max-width: 500px;
+      margin: auto; }
+    body #colophon #pg-w581ad7d988d0a-0 #pgc-w581ad7d988d0a-0-0 #panel-w581ad7d988d0a-0-0-1 .panel-widget-style {
+      max-width: 353px;
+      margin: auto; }
+    body #colophon #pg-w56dd4ce038627-0 .panel-row-style {
+      background-color: #f5f5f5; }
+    body #colophon #pl-w581bee1ca9a23 #pg-w581bee1ca9a23-2 .panel-row-style {
+      padding-top: 6px;
+      padding-bottom: 20px; }
+  body #pl-147 #pgc-147-0-0 .textwidget p {
+    text-align: center;
+    margin-bottom: 0;
+    font-weight: 600; }
+  body #footer-bottom .container #pg-w5701effebe0cf-0 .panel-row-style {
+    background-image: url(http://charitywp.thimpress.com/demo-3/wp-content/uploads/sites/3/2016/02/home1_22.jpg);
+    background-size: cover; }
+    body #footer-bottom .container #pg-w5701effebe0cf-0 .panel-row-style #pgc-w5701effebe0cf-0-0 h3 {
+      text-align: center;
+      font-size: 36px;
+      color: #fff; }
+    body #footer-bottom .container #pg-w5701effebe0cf-0 .panel-row-style #pgc-w5701effebe0cf-0-0 p {
+      text-align: center;
+      font-size: 20px; }
